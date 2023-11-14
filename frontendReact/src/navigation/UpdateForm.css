@@ -1,0 +1,41 @@
+.employee-form {
+    max-width: 400px; /* Adjust the maximum width as needed */
+    margin: auto; /* Center the form horizontally */
+    padding: 20px;
+    border: 1px solid #ddd; /* Add a border for better visibility */
+    border-radius: 8px; /* Add rounded corners */
+    text-align: left;
+  }
+  
+  .buttons-container {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px; /* Add some space between the buttons and the rest of the form */
+  }
+  input{
+    align-self: right;
+  }
+  button {
+    padding: 8px 16px;
+    background-color: #4caf50;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  .employee-form-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh; /* 100% ของความสูงของหน้าจอ */
+  }
+  
+  .delete {
+    margin-top: 10px;
+    padding: 8px 16px;
+    background-color: red;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
