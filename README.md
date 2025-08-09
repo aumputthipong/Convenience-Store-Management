@@ -5,12 +5,14 @@ A full-stack web application for managing convenience store and employees in, bu
 ## React setup
 ```bash
 $ npm install
----
+```
+
 ## Compile and run the react
 backend
 ```bash
 # development
 $ npm run dev
+```
 
 
 
