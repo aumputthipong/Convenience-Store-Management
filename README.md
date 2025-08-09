@@ -3,6 +3,7 @@
 A full-stack web application for managing convenience store and employees in, built using **Java Spring Boot (Microservices Architecture)** and **React**.
 
 ## React setup
+```bash
 $ npm install
 ---
 ## Compile and run the react
